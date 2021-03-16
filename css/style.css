@@ -11,7 +11,7 @@ h1{
 	font-size: 45px;
 	text-decoration: underline;
 }
-table, th, td {
+th, td {
 	border: 3px red;
 	color: red;
 	border-collapse: collapse;
@@ -21,7 +21,7 @@ table  {
 	margin-left: auto;
 	margin-right: auto; 
 }
-th, td, tr {
+tr {
 	font-family: Arial;
 	word-wrap: break-word; 
 	background color: #e4ffe5;
