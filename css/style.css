@@ -11,7 +11,7 @@ h1{
 	font-size: 45px;
 	text-decoration: underline;
 }
-table, th, td {
+table, th, td, tr {
 	border: 3px red;
 	color: red;
 	border-collapse: collapse;
