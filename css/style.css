@@ -12,7 +12,13 @@ h1 {
 	font-size: 45px;
 	text-decoration: underline;
 }
-th, td {
+th {
+	border: 3px red;
+	color: red;
+	border-collapse: collapse;
+	text-align: center;
+}
+td {
 	border: 3px red;
 	color: red;
 	border-collapse: collapse;
