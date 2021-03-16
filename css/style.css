@@ -7,7 +7,6 @@ body {
 h1 {
 	background-color: black; 
 	color: red;
-	font-family: Arial;
 	text-align: center;
 	font-size: 45px;
 	text-decoration: underline;
@@ -30,12 +29,10 @@ table  {
 	margin-right: auto; 
 }
 tr {
-	font-family: Arial;
 	word-wrap: break-word; 
 	background-color: #e4ffe5;
 }
 p {
 	background-color: #FFFFFF;
-	font-family: Arial; 
 	text-align: center;
 }
