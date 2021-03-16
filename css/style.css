@@ -1,9 +1,9 @@
-body { 
+body, { 
 	width: 100%;
 	height: 100%;
 	margin: 0;
 }
-h1{
+h1,{
 	background-color: #FFFFFF; 
 	color: red;
 	font-family: Helvetica;
@@ -11,22 +11,22 @@ h1{
 	font-size: 45px;
 	text-decoration: underline;
 }
-table, th, td, tr {
+table, th, td, {
 	border: 3px red;
 	color: red;
 	border-collapse: collapse;
 	text-align: center;
 }
-table{
+table,  {
 	margin-left: auto;
 	margin-right: auto; 
 }
-th, td {
+th, td, {
 	font-family: Times New Roman;
 	word-wrap: break-word; 
 	background color: #e4ffe5;
 }
-p {
+p, {
 	background color: #FFFFFF;
 	font-family: Helvetica; 
 	text-align: center;
