@@ -17,6 +17,7 @@ th {
 	color: red;
 	border-collapse: collapse;
 	text-align: center;
+	text-decoration: underline;
 }
 td {
 	border: 3px red;
