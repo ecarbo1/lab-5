@@ -24,6 +24,7 @@ td {
 table  {
 	margin-left: auto;
 	margin-right: auto; 
+	background-color: blue;
 }
 tr {
 	word-wrap: break-word; 
