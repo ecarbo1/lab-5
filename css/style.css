@@ -4,7 +4,7 @@ body {
 	margin: 0;
 }
 h1{
-	background-color: royal blue; 
+	background-color: #FFFFFF; 
 	color: white;
 	font-family: helvetica;
 	text-align: center;
@@ -22,7 +22,7 @@ table{
 	margin-right: auto; 
 }
 th, td {
-	font-family: times new roman;
+	font-family: Times New Roman;
 	background color: #e4ffe5;
 }
 p {
