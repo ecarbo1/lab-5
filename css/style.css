@@ -12,7 +12,7 @@ h1{
 	text-decoration: underline;
 }
 table, th, td {
-	border: 3px light red
+	border: 3px red
 	color: red;
 	border-collapse: collapse;
 	text-align: center;
